@@ -1,8 +1,7 @@
 War
+Javascript version of the card game War
 
-Python game to create a simulated game of War 
-
-Game rules are from Bicycle Cards. www.bicyclecards.com/how-to-play/war/
+Adapted rules from Bicycle Cards. www.bicyclecards.com/how-to-play/war/
 
 # Rules
 
